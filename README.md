@@ -6,7 +6,7 @@ Examples are drawn from works by <a href="https://www.amazon.com/Essential-Math-
 and <a href="https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential-ebook/dp/B08712TT3F/ref=sr_1_1?crid=VNOHRX5MODES&dib=eyJ2IjoiMSJ9.0vawC-UkNGYN5PZKH33LNQUquThVC05C8-wthc9ipKoyCY42St-NhlDAVg08PIR3lgBFSJKIisN83uj9KZ2-G4edewhdA6iiMP97bnKw1F43iv28YVgnamP_QbuPgc0bQT-XQes_2eluC7_pv-x4dPMUSw5Ee5S_ufxPEIuWT1--caxH8JrzUHVPDQvGuh0yhkvIy01jz8ZD6oG6r3Yz_qd2v6xDLrnDn2X4ON0pa8k.fqFjer-O2LjWnReE8ggFlChUoo_paf89plfYdKtQEko&dib_tag=se&keywords=practical+statistics+for+data+scientists&qid=1725828337&s=digital-text&sprefix=practical+sta%2Cdigital-text%2C313&sr=1-1">Peter Bruce, Andrew Bruce and Peter Gedeck</a>
 
 <div style="display: inline-block; margin-right: 5em;">
-<img src="essentialmathImage.jpg" width="150">
-<img src="ProbabilityBook.jpg" width="150">
-<img src="statisticsBook.jpg" width="150">
+<img src="essentialmathImage.jpg" width="200">
+<img src="ProbabilityBook.jpg" width="200">
+<img src="statisticsBook.jpg" width="200">
 </div>
